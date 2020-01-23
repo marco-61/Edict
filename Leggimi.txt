@@ -1,0 +1,15 @@
+Classe    : Edict
+Scopo     : Estensione della classe dizionario
+Autore    : Marco Salvati
+Email     : salvatimarco61@gmail.com
+Licenza   : GPL 3
+Data      : 2019-11-04
+
+Crea un dizionario ordinato in un modo diverso da OrderedDict
+implementa molti metodi delle liste
+index, sort, reverse, lo slicing sulle chiavi
+implementa i metodi dei set sulle chiavi
+union, intersection, difference, symmetric_difference, issuperset, issubset, isdisjoint
+un metodo swap per scambiare chiavi con i valori
+e il metodo reorder per riordinare le chiavi nell'ordine esatto con cuisono state inserite.
+ 
